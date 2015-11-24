@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhaotf/workspaces/AndInUpdate_Dex/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/zhaotf/workspaces/AndInUpdate_Dex/app/build/intermediates/pre-dexed/debug/classes-f6a08799a6da61c8c2632272f59c19ebb1dc7ad6.jar" />
+    </item>
+    <item
+        jar="/Users/zhaotf/workspaces/AndInUpdate_Dex/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/zhaotf/workspaces/AndInUpdate_Dex/app/build/intermediates/pre-dexed/debug/classes-0b073db99c029c90613803223e5089922c29ad92.jar" />
+    </item>
+    <item
+        jar="/Users/zhaotf/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/zhaotf/workspaces/AndInUpdate_Dex/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-923a2dd14e00cb2845e66b678989ccf38df309c8.jar" />
+    </item>
+    <item
+        jar="/Users/zhaotf/workspaces/AndInUpdate_Dex/app/build/intermediates/exploded-aar/AndInUpdate_Dex/hotfixlib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d823478456632393710793da50984af0d00876c5">
+        <dex dex="/Users/zhaotf/workspaces/AndInUpdate_Dex/app/build/intermediates/pre-dexed/debug/classes-d49646059a7ef377f9a32cea72c74bfcbfc9c902.jar" />
+    </item>
+    <item
+        jar="/Users/zhaotf/workspaces/AndInUpdate_Dex/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/zhaotf/workspaces/AndInUpdate_Dex/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-fecf7bff94651f8af66de953e4e84349dc55c725.jar" />
+    </item>
+
+</items>
